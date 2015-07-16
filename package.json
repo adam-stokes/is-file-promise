@@ -1,30 +1,30 @@
 {
-    "name": "is-file-promise",
-    "version": "1.0.0",
-    "description": "Promise version of is-file",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https:\/\/github.com\/battlemidget\/is-file-promise.git"
-    },
-    "keywords": [
-        "is-file",
-        "fs"
-    ],
-    "author": "Adam Stokes <adam.stokes@ubuntu.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https:\/\/github.com\/battlemidget\/is-file-promise\/issues"
-    },
-    "homepage": "https:\/\/github.com\/battlemidget\/is-file-promise#readme",
-    "dependencies": {
-        "is-file": "^1.0.0"
-    },
-    "keywords": [
-        "is-file",
-        "promise"
-    ]
+  "name": "is-file-promise",
+  "version": "1.0.0",
+  "description": "Promise version of is-file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battlemidget/is-file-promise.git"
+  },
+  "keywords": [
+    "is-file",
+    "promise"
+  ],
+  "author": "Adam Stokes <adam.stokes@ubuntu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battlemidget/is-file-promise/issues"
+  },
+  "homepage": "https://github.com/battlemidget/is-file-promise#readme",
+  "dependencies": {
+    "is-file": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  }
 }
