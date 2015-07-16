@@ -1,4 +1,4 @@
-# is-file-promise
+# is-file-promise [![Build Status][travis-image]][travis-url]
 > Promise version of is-file
 
 ## Install
@@ -25,3 +25,7 @@ isFileP("Downloads/monkey.txt").then(function(ret){
 ## License
 
 MIT
+
+[travis-image]: https://travis-ci.org/battlemidget/is-file-promise.svg?branch=master
+[travis-url]: https://travis-ci.org/battlemidget/is-file-promise
+
