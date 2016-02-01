@@ -1,6 +1,6 @@
 {
   "name": "is-file-promise",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Promise version of is-file",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/battlemidget/is-file-promise#readme",
   "dependencies": {
-    "is-file": "^1.0.0",
-    "native-or-bluebird": "^1.2.0"
+    "is-file": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "^2.2.5",
